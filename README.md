@@ -13,3 +13,8 @@ Data includes:
 - 256,059 users
 - 74,258 products
 - 260 users with > 50 reviews
+
+Objective: To determine whether a given review is positive or not using the following classifiers:
+1) K-NN
+2) Naive Bayes
+3)Logistic Regression
