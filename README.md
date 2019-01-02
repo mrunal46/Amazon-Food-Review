@@ -16,5 +16,5 @@ Data includes:
 
 Objective: To determine whether a given review is positive or not using the following classifiers:
 1) K-NN
-2) Naive Bayes
+2) Naive Bayes 
 3)Logistic Regression
